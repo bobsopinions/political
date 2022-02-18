@@ -1,2 +1,2 @@
 # political
-code to manage political identity
+initial code to manage political identity
